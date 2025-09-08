@@ -21,11 +21,11 @@ This project demonstrates creating and managing a SQL database named Product to 
   - Counted total orders, total revenue, average, minimum, and maximum product prices.
   - Calculated revenue per customer and total sales per product category.
 
-  ### Filtering and Sorting:
+  ### 5. Filtering and Sorting:
    - Filtered products within specific price ranges or by region.
    - Sorted products by price and customers alphabetically.
 
-  ### Advanced SQL Features:
+  ### 6. Advanced SQL Features:
   - Used DISTINCT to find unique product categories and regions.
   - Applied date functions to filter orders by month/year.
   - Used string functions to analyse customer names.
