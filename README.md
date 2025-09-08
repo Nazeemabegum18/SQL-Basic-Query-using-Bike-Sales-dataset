@@ -1,6 +1,6 @@
 ## Product & Customer Orders SQL Database
 
-This project demonstrates creating and managing a SQL database named Product to track customer orders and product details.
+This project demonstrates the creation and management of a SQL database named 'Product' to track customer orders and product details.
 
 ## Steps and Implementation:
   ### 1. Database and Table Creation:
@@ -33,4 +33,3 @@ This project demonstrates creating and managing a SQL database named Product to 
 
 This project provides a hands-on approach to SQL database design, data insertion, querying, aggregation, and filtering, making it useful for learning and practising real-world data analysis with SQL.
 
-This project provides a hands-on approach to SQL database design, data insertion, querying, aggregation, and filtering, making it useful for learning and practising real-world data analysis with SQ
