@@ -29,9 +29,8 @@ This project demonstrates creating and managing a SQL database named Product to 
   - Used DISTINCT to find unique product categories and regions.
   - Applied date functions to filter orders by month/year.
   - Used string functions to analyse customer names.
+  - Employed HAVING to filter groups and LIMIT to display top products.
 
 This project provides a hands-on approach to SQL database design, data insertion, querying, aggregation, and filtering, making it useful for learning and practising real-world data analysis with SQL.
-
-Employed HAVING to filter groups and LIMIT to display top products.
 
 This project provides a hands-on approach to SQL database design, data insertion, querying, aggregation, and filtering, making it useful for learning and practising real-world data analysis with SQ
